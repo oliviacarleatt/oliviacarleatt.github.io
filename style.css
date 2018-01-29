@@ -7,3 +7,6 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
+p {
+    font-family: 'Slabo 27px', serif;
+}
