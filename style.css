@@ -14,7 +14,7 @@ ul.main-menu>li {
 body {
     font-family: 'Slabo 27px', serif;
 }
-div {
+.me {
     width: 300px;
     margin: 0 auto;
 }
