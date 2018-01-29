@@ -7,6 +7,10 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
+@font-face
+    {font-family: 'Slabo 27px';
+        src: url(Slabo27px-Regualr.ttf);
+}
 body {
     font-family: 'Slabo 27px', serif;
 }
