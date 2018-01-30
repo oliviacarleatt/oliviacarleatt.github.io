@@ -1,5 +1,5 @@
 h1 { color: blue; }
-title {
+h1 {
     text-align: center
 }
 ul.main-menu {
@@ -18,7 +18,7 @@ body {
     font-family: 'Slabo 27px', serif;
 }
 p {
-    width: 300px;
+    width: 500px;
     margin: 0 auto;
 }
 li {
