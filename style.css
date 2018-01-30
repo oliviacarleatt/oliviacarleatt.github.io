@@ -1,4 +1,7 @@
 h1 { color: blue; }
+h1 {
+    text-align: center
+}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
