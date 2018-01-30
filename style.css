@@ -17,6 +17,9 @@ ul.main-menu>li {
 body {
     font-family: 'Slabo 27px', serif;
 }
+.portfolio {
+    font-family: 'Slabo 27px', serif;
+}
 p {
     width: 800px;
     margin: 0 auto;
