@@ -24,6 +24,9 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+p {
+    padding: 20px;
+}
 nav {
     text-align: center 
 }
