@@ -18,9 +18,15 @@ body {
     font-family: 'Slabo 27px', serif;
 }
 p {
-    width: 700px;
+    width: 800px;
     margin: 0 auto;
 }
 nav {
     text-align: center 
 }
+nav {
+    background: white;
+    padding: 20px;
+}
+    
+    
