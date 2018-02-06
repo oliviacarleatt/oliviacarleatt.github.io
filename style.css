@@ -2,6 +2,7 @@ h1 { color: blue; }
 h1 {
     text-align: center
 }
+h1 { font-family: 'Megrim', cursive;}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
@@ -11,14 +12,14 @@ ul.main-menu>li {
     display: inline;
 }
 @font-face
-    {font-family: 'Slabo 27px';
-        src: url(Slabo27px-Regualr.ttf);
+    {font-family: 'Megrim';
+        src: url(Megrim.ttf);
+@font-face
+    {font-family: 'Raleway';
+        src: url(Raleway-Light.ttf);
 }
 body {
-    font-family: 'Slabo 27px', serif;
-}
-.portfolio {
-    font-family: 'Slabo 27px', serif;
+    font-family: 'Raleway', sans-serif;
 }
 p {
     width: 800px;
