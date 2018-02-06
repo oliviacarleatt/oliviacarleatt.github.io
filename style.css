@@ -11,12 +11,20 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
-ul.main-menu>li {
-    color: black }
-ul.main-menu>li {
-    text-decoration: none;}
-ul.main-menu>li:hover { 
-    color: yellow;
+a:link {
+    text-decoration: none;
+}
+
+ul.main-menu>li:visited {
+    text-decoration: none;
+}
+
+ul.main-menu>li:hover {
+    text-decoration: underline;
+}
+
+ul.main-menu>li:active {
+    text-decoration: underline;
 }
 body {
    font-family: 'Raleway', sans-serif;
