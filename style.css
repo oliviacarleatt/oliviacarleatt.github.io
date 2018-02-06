@@ -69,7 +69,7 @@ a:active {
 ul.samples {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 ul.samples>li {
     display: inline;
