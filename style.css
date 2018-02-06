@@ -11,27 +11,11 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
-ul.main-menu:link {
-    text-decoration: none;
-}
-
-ul.main-menu:visited {
-    text-decoration: none;
-}
-
-ul.main-menu:hover {
-    text-decoration: underline;
-}
-
-ul.main-menu:active {
-    text-decoration: underline;
-}
 body {
    font-family: 'Raleway', sans-serif;
     font-weight: 500; }
-}
 p {
-    width: 700px;
+    width: 800px;
     margin: 0 auto;
 }
 p {
