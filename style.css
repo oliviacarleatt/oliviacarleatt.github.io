@@ -10,7 +10,6 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
-    width:32px;
 }
 body {
    font-family: 'Raleway', sans-serif;
@@ -39,6 +38,8 @@ h2 {
 footer {
     text-align: center 
 }   
+footer {
+    padding: 20px }
 a:link {
     text-decoration: none;
 }
