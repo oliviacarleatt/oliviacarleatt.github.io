@@ -19,6 +19,8 @@ body {
     width: 300px;
 }
 p {
+    line-height: 2 }
+p {
     width: 800px;
     margin: 0 auto;
     padding: 20px;
