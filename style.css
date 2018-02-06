@@ -66,3 +66,5 @@ a:hover {
 a:active {
     color: black;
 }
+a { 
+    text-align: center }
