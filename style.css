@@ -71,7 +71,7 @@ ul.samples {
     margin: 0;
     padding: 0;
 }
-ul.samples {
+ul.samples>li {
     display: inline;
 }
 ul.samples {
