@@ -11,19 +11,19 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
-a:link {
+ul.main-menu:link {
     text-decoration: none;
 }
 
-ul.main-menu>li:visited {
+ul.main-menu:visited {
     text-decoration: none;
 }
 
-ul.main-menu>li:hover {
+ul.main-menu:hover {
     text-decoration: underline;
 }
 
-ul.main-menu>li:active {
+ul.main-menu:active {
     text-decoration: underline;
 }
 body {
