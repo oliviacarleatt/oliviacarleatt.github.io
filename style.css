@@ -45,3 +45,15 @@ a:hover {
 a:active {
     text-decoration: underline;
 }    
+a:link {
+    color: black;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: yellow;
+}
+a:active {
+    color: black;
+}
