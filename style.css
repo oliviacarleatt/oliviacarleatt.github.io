@@ -35,11 +35,13 @@ h2 {
     width: 800px;
     margin: 0 auto;
 }
+h2 {
+    padding: 30px; }
 footer {
     text-align: center 
 }   
 footer {
-    padding: 50px; }
+    padding: 40px; }
 a:link {
     text-decoration: none;
 }
