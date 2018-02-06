@@ -5,8 +5,8 @@ h1 {
 h1 { font-family: 'Megrim', cursive;}
 ul.main-menu {
     list-style-type: none;
-    margin: 0;
-    padding: 20px;
+    margin: 20px;
+    padding: 0;
 }
 ul.main-menu>li {
     display: inline;
