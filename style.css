@@ -71,6 +71,8 @@ ul.samples {
     margin: 0;
     padding: 0;
 }
-ul.samples>li {
+ul.samples {
     display: inline;
 }
+ul.samples {
+    text align: center }
