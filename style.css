@@ -49,10 +49,10 @@ a:link {
     color: black;
 }
 a:visited {
-    color: red;
+    color: black;
 }
 a:hover {
-    color: yellow;
+    color: gold;
 }
 a:active {
     color: black;
