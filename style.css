@@ -21,6 +21,7 @@ p {
 p {
     padding: 20px;
 }
+p { line-height: 20px }
 nav {
     text-align: center 
 }
