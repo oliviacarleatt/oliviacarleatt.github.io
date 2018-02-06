@@ -5,15 +5,18 @@ h1 {
 h1 { font-family: 'Megrim', cursive;}
 ul.main-menu {
     list-style-type: none;
-    margin: 20px;
+    margin: 0;
     padding: 0;
 }
 ul.main-menu>li {
     display: inline;
 }
-
+ul.main-menu>li {
+    color: black }
+ul.main-menu>li {
+    text-decoration: none;}
 ul.main-menu>li:hover { 
-    background-color: yellow;
+    color: yellow;
 }
 body {
    font-family: 'Raleway', sans-serif;
@@ -26,7 +29,7 @@ p {
 p {
     padding: 20px;
 }
-p { line-height: 20px }
+
 nav {
     text-align: center 
 }
