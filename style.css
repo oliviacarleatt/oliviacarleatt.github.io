@@ -29,7 +29,8 @@ p {
 p {
     padding: 20px;
 }
-
+p { 
+    line-height: 1.5 }
 nav {
     text-align: center 
 }
