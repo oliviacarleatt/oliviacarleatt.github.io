@@ -23,14 +23,13 @@ body {
     font-weight: 500; }
 }
 p {
-    width: 800px;
+    width: 700px;
     margin: 0 auto;
 }
 p {
     padding: 20px;
 }
-p { 
-    line-height: 1.5 }
+
 nav {
     text-align: center 
 }
