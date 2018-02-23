@@ -78,3 +78,15 @@ ul.samples {
     width: 800px;
     margin: 0 auto;
 }
+ul.log {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+}
+ul.log>li {
+    display: inline;
+}
+ul.log {
+    width: 800px;
+    margin: 0 auto;
+}
