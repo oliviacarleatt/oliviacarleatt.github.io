@@ -6,11 +6,11 @@ h1 { font-family: 'Megrim', cursive;}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
-    padding: 10px;
+    padding: 0;
 }
 ul.main-menu>li {
     display: inline;
-    padding: 10px 10px;
+    padding: 10px;
 }
 body {
    font-family: 'Raleway', sans-serif;
