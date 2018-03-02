@@ -106,4 +106,5 @@ tr, td {
     width: 300px; 
     border-radius: 50%;
     float: left;
+    margin-right: 30px;
 }
