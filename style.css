@@ -102,3 +102,5 @@ table, tr, td {
 tr, td {
     padding: 15px;
 }
+.profile-img {
+    width: 300px; }
