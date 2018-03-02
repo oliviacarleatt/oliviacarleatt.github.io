@@ -103,4 +103,6 @@ tr, td {
     padding: 15px;
 }
 .profile-img {
-    width: 300px; }
+    width: 300px; 
+    border-radius: 50%;
+}
