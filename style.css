@@ -10,6 +10,7 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
+    padding: 10px 40px;
 }
 body {
    font-family: 'Raleway', sans-serif;
