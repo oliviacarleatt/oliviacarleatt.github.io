@@ -108,5 +108,9 @@ tr, td {
     float: left;
     margin-right: 30px;
 }
-img {
-    width: 800px; }
+.content-wrap {
+    max-width: 800px; 
+    margin: 0 auto;
+    padding: 50px;
+    overflow: auto;
+    }
