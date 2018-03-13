@@ -86,6 +86,7 @@ ul.log {
 }
 ul.log>li {
     display: inline;
+    padding: 10px }
 }
 ul.log {
     width: 800px;
