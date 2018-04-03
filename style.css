@@ -120,7 +120,7 @@ tr, td {
     }
 .audio { width: 800px;
     margin: 0 auto;
-    align: center;
+    text-align: center;
 }
 .storybullets {width: 800px;
     margin: 0 auto;
