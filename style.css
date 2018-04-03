@@ -122,6 +122,7 @@ tr, td {
     margin: 0 auto;
 }
 .ad-img {
-        float: left;
+    width:900px;
+    float: left;
     margin-right: 30px;
 }
