@@ -118,7 +118,9 @@ tr, td {
     padding: 50px;
     overflow: auto;
     }
-.audio { width: 800px;
+.audio { 
+    color: salmon;
+    width: 800px;
     margin: 0 auto;
     text-align: center;
 }
