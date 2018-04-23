@@ -127,10 +127,3 @@ tr, td {
 .storybullets {width: 800px;
     margin: 0 auto;
     padding: 20px;
-}
-iframe {
-width: 200px;
-height: 100px;
-float: left;
-margin: 30px 60px;
-}
