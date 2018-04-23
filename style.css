@@ -129,5 +129,8 @@ tr, td {
     padding: 20px;
 }
 iframe {
-    margin: 30px; }
-    
+width: 200px;
+height: 100px;
+float: left;
+margin: 30px 60px;
+}
