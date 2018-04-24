@@ -132,7 +132,7 @@ ul.sampleport {
     margin: 0;
     padding: 20px;
 }
-ul.sampleport >li {
+ul.sampleport>li {
     display: inline;
     padding: 10px;
 }
