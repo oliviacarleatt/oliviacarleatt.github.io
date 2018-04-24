@@ -130,9 +130,13 @@ tr, td {
 ul.sampleport {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 ul.sampleport>li {
     display: inline;
     padding: 10px;
+}
+ul.sampleport {
+    width: 800px;
+    margin: 0 auto;
 }
