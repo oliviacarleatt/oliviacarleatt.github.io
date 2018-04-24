@@ -127,3 +127,12 @@ tr, td {
 .storybullets {width: 800px;
     margin: 0 auto;
     padding: 20px;
+ul.sampleport {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.sampleport>li {
+    display: inline;
+    padding: 10px;
+}
