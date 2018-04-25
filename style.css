@@ -142,6 +142,7 @@ ul.sampleport {
 }
 .finalimg {
     width: 300px; 
+    border-radius: 0%;
     float: left;
     margin-right: 30px;
 }
