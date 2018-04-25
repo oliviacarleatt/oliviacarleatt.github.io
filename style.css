@@ -140,3 +140,8 @@ ul.sampleport {
     width: 800px;
     margin: 0 auto;
 }
+.finalimg{
+    width: 300px; 
+    float: left;
+    margin-right: 30px;
+}
